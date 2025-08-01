@@ -10,3 +10,6 @@ En este repositorio hay archivos PDF que contienen imagenes de problemas resuelt
 [Corrección Parcial#1 MSAIM - Franklin Guzmán .pdf](https://github.com/user-attachments/files/21544640/Correccion.Parcial.1.MSAIM.-.Franklin.Guzman.pdf)
 
 [Asignación #5 MSAIM - Franklin Guzmán  (1).pdf](https://github.com/user-attachments/files/21544726/Asignacion.5.MSAIM.-.Franklin.Guzman.1.pdf)
+
+[Proyecto MSA Franklin Guzmán.pdf](https://github.com/user-attachments/files/21551987/Proyecto.MSA.Franklin.Guzman.pdf)
+
